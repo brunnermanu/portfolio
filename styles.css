@@ -287,7 +287,7 @@ html body {
 
 
 .image-between {
-    background-image: url("../img/Handgravur.jpeg");
+    background-image: url("./img/Handgravur.jpeg");
     background-attachment: fixed;
     background-size: cover;
     background-position: 50% 50%;
@@ -298,11 +298,11 @@ html body {
 }
 
 .image-between-two {
-    background-image: url("../img/Kuechenbeleuchtung.jpg");
+    background-image: url("./img/Kuechenbeleuchtung.jpg");
 }
 
 .image-between-three {
-    background-image: url("../img/grocery1.jpg");
+    background-image: url("./img/grocery1.jpg");
 }
 
 .parallax-section{
@@ -353,11 +353,11 @@ html body {
 }
 
 .smallSquare-one {
-    background-image: url("../img/Handgravurdunkel.jpeg");
+    background-image: url("./img/Handgravurdunkel.jpeg");
 }
 
 .smallSquare-two {
-    background-image: url("../img/Kronleuchterdunkel.jpg.png");
+    background-image: url("./img/Kronleuchterdunkel.jpg.png");
 }
 
 .smallSquare-three {
